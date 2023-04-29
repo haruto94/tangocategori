@@ -1,0 +1,2 @@
+build:
+  pre: conda env create --file environment.yml
