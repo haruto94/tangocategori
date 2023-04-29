@@ -48,7 +48,7 @@ brotlipy==0.7.0
 build==0.10.0
 # bzip2==1.0.8
 # c-ares==1.18.1
-ca-certificates==2022.07.19
+# ca-certificates==2022.07.19
 cachecontrol==0.12.11
 cctools==949.0.1
 cctools_osx-64==949.0.1
