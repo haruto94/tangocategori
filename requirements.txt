@@ -56,7 +56,7 @@ certifi==2022.9.24
 cffi==1.15.1
 # cfitsio==3.470
 chardet==4.0.0
-charls==2.2.0
+# charls==2.2.0
 charset-normalizer==2.0.4
 cleo==2.0.1
 click==8.0.4
