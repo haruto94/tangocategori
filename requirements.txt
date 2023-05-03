@@ -54,7 +54,7 @@ cctools==7.0.17
 # cctools_osx-64==949.0.1
 certifi==2022.9.24
 cffi==1.15.1
-cfitsio==3.470
+# cfitsio==3.470
 chardet==4.0.0
 charls==2.2.0
 charset-normalizer==2.0.4
