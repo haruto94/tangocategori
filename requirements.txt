@@ -50,7 +50,7 @@ build==0.10.0
 # c-ares==1.18.1
 # ca-certificates==2022.07.19
 cachecontrol==0.12.11
-cctools==949.0.1
+cctools==7.0.17
 cctools_osx-64==949.0.1
 certifi==2022.9.24
 cffi==1.15.1
