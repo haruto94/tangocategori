@@ -23,7 +23,7 @@ class Net(nn.Module):
     
 # インスタンス化
 net = Net().cpu().eval()
-net.load_state_dict(torch.load('src/word_categorize.pt', map_location=torch.device('cpu')))
+net.load_state_dict(torch.load('word_categorize.pt', map_location=torch.device('cpu')))
 categories = ['食料', '衣服', '趣味', '日用品', '家電', '家具']
 def vec_categorize(vector):
     # 予測値の算出
